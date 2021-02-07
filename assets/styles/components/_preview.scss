@@ -1,0 +1,33 @@
+.preview {
+  display: flex;
+  flex-direction: column;
+
+  &-box {
+    box-shadow: inset 0 200px 0 $phoneColor;
+  }
+
+  &__price {
+    margin-top: 10px;
+
+    text-align: center;
+  }
+
+  &__phone-img {
+    margin-top: 30px;
+  }
+
+  &__btn {
+    margin: 48px auto 0 auto;
+  }
+
+  &__info {
+    margin-top: 60px;
+
+    text-align: center;
+  }
+
+  &__phome-img-second {
+    margin-top: 48px;
+  }
+
+}

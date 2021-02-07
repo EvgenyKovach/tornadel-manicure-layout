@@ -1,0 +1,36 @@
+header {
+  background:  $phoneColor;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+
+  &__logo {
+    display: flex;
+
+    max-width: 165px;
+    max-height: 40px;
+  }
+
+  &__phone a {
+    font-size: 20px;
+    font-weight: 700;
+
+    color: $currentColor;
+
+    transition: .2s ease-in-out;
+
+    &:hover {
+      color: $currentColorH;
+    }
+
+  }
+
+}
+
+
+.hide-header {
+  display: none;
+}

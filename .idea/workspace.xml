@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7d3b58-0b82-446e-944b-033af0db9b55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/styles/_default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-ExtraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Inter-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/components/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/configs/_default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/configs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/configs/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/_default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_preview.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/configs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +60,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GOD\Documents\Projects\tornadel-manicure-layout\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GOD\Documents\Projects\tornadel-manicure-layout\assets\styles\components" />
+      <recent name="C:\Users\GOD\Documents\Projects\tornadel-manicure-layout\assets\styles\configs" />
+      <recent name="C:\Users\GOD\Documents\Projects\tornadel-manicure-layout\assets\styles" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -51,6 +94,8 @@
       <updated>1611927348311</updated>
       <workItem from="1611927349480" duration="1341000" />
       <workItem from="1611928706811" duration="31000" />
+      <workItem from="1612714635539" duration="3257000" />
+      <workItem from="1612719444447" duration="4202000" />
     </task>
     <servers />
   </component>
@@ -58,21 +103,51 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="847" y="353" key="#File_Watchers" timestamp="1612715028692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="353" key="#File_Watchers/0.0.1920.1040@0.0.1920.1040" timestamp="1612715028692" />
+    <state x="761" y="11" key="#HTML" timestamp="1612719694896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="11" key="#HTML/0.0.1920.1040@0.0.1920.1040" timestamp="1612719694896" />
+    <state x="713" y="339" key="#Notifications" timestamp="1612715037848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="339" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1612715037848" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611928497189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928497189" />
-    <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1611928650891">
+    <state x="798" y="349" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612716342997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="349" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612716342997" />
+    <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1612715120745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928650891" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1611928654970">
+    <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612715120745" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1612714849086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612714849086" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1612715121443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928654970" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612715121443" />
+    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1612718151703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612718151703" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1611928512937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928512937" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612723520323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612723520323" />
   </component>
 </project>

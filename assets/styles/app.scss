@@ -1,4 +1,10 @@
-@include mixins;
-@include default;
+// config styles
+@import "configs/vars";
+@import "configs/mixins";
+@import "configs/default";
+@import "configs/fonts.css";
+@import "configs/elements";
 
-@include index;
+// components
+@import "components/header";
+@import "components/preview";
