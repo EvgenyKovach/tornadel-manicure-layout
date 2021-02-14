@@ -1,5 +1,9 @@
 header {
   background:  $phoneColor;
+
+  @include below(900px) {
+    background: #fff;
+  }
 }
 
 .header {
@@ -12,6 +16,10 @@ header {
 
     max-width: 165px;
     max-height: 40px;
+
+    @include below(900px) {
+      max-width: 125px;
+    }
   }
 
   &__phone a {
@@ -22,6 +30,10 @@ header {
 
     transition: .2s ease-in-out;
 
+    @include below(900px) {
+      font-size: 16px;
+    }
+
     &:hover {
       color: $currentColorH;
     }
@@ -30,7 +42,40 @@ header {
 
 }
 
-
 .hide-header {
-  display: none;
+  width: calc(100% - 90px);
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+
+  top: 0;
+  padding: 15px 0;
+
+  background: #fff;
+  box-shadow: -45px 0px 0 #FFF, 45px 0px 0 #FFF;
+  transform: translateY(-100%);
+  transition: .25s ease-in-out;
+
+  z-index: 2;
+
+  .header__phone {
+    display: flex;
+
+    height: auto;
+    justify-content: center;
+    align-content: center;
+
+    a {
+      margin: auto;
+    }
+
+    @include below(900px) {
+      font-size: 16px;
+    }
+
+  }
+
+  &.is-active {
+    transform: translateY(0%);
+  }
 }

@@ -1,0 +1,80 @@
+.credit-block {
+  padding-bottom: 145px;
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  &__phone-img {
+    position: relative;
+  }
+
+  &__title {
+    margin-top: 45px;
+
+    color: #000000;
+  }
+
+  &__btn {
+    min-width: 250px;
+
+    margin: 40px auto 0 auto;
+  }
+
+  &__info {
+    padding-top: 50px;
+
+    text-align: center;
+
+    a {
+      text-decoration: underline;
+    }
+
+  }
+
+  &__special {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    min-width: 768px;
+    min-height: 152px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    padding: 15px 25px;
+
+    border: 1px solid #FF068C;
+    background: #FFF;
+
+    text-align: center;
+
+    &-title {
+      font-size: 44px;
+      font-weight: bold;
+      color: $currentColor;
+
+      padding-bottom: 15px
+    }
+
+    &-text {
+      a {
+        text-decoration: underline;
+      }
+
+    }
+
+    @include below(900px) {
+      min-width: 270px;
+      font-size: 14px;
+    }
+
+  }
+
+}

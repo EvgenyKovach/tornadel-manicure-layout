@@ -5,6 +5,24 @@
   text-align: center;
 
   color: $currentColor;
+
+  @include below(900px) {
+    font-size: 20px;
+  }
+}
+
+.block-title {
+  font-family: "Inter", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+
+  color: $currentColor;
+
+  @include below(900px) {
+    font-size: 16px;
+  }
+
 }
 
 .text {
@@ -17,12 +35,17 @@
   p {
     padding: 10px 0;
   }
+
+  @include below(900px) {
+    font-size: 14px;
+  }
 }
 
 .btn {
   font-family: "Inter", sans-serif;
   font-weight: 700;
   text-align: center;
+  font-size: 20px;
 
   color: #fFFfff;
   background: #FF068C;
@@ -41,6 +64,11 @@
 
   &.type-2 {
     padding: 12px 42px;
+
+    @include below(900px) {
+      padding: 12px 15px;
+    }
+
   }
 
 }
@@ -48,4 +76,10 @@
 .img-phone {
   width: calc(100% + 90px);
   transform: translateX(-45px);
+
+  @include below(900px) {
+    width: calc(100% + 48px);
+    transform: translateX(-24px);
+  }
+
 }

@@ -1,0 +1,22 @@
+.info-block {
+  padding: 50px 0 35px 0;
+
+  @include below(900px) {
+    padding: 25px 0 15px 0;
+  }
+
+  &__title {
+    margin-bottom: 45px;
+
+    color: #000000;
+  }
+
+  &__sub-title {
+    padding: 50px 0 20px 0;
+  }
+
+  &__info {
+    text-align: center;
+  }
+
+}

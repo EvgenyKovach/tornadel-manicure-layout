@@ -48,13 +48,12 @@ h3 {
 
 .container {
   max-width: 1920px;
-  width: 100%;
 
   margin: 0 auto;
   padding: 0 45px;
 
-  @include below($mobile) {
-    padding: 0 10px;
+  @include below(900px) {
+    padding: 0 24px;
   }
 
 }

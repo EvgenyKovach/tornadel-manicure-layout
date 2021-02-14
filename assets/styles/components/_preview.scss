@@ -2,8 +2,15 @@
   display: flex;
   flex-direction: column;
 
-  &-box {
+  &__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     box-shadow: inset 0 200px 0 $phoneColor;
+
+    @include below(900px) {
+      box-shadow: none;
+    }
   }
 
   &__price {
@@ -28,6 +35,13 @@
 
   &__phome-img-second {
     margin-top: 48px;
+
+    img {
+      @include below(900px) {
+        min-height: 300px;
+      }
+    }
+
   }
 
 }
