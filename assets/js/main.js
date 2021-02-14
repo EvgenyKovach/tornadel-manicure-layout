@@ -18,6 +18,10 @@ window.onscroll = () => {
             behavior: "smooth"
         });
     }
+
+    if (window.scrollY > 200) {
+        document.querySelector('.advantages__title').scrollTo(0, 0);
+    }
 }
 
 

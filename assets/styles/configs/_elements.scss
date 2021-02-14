@@ -77,6 +77,12 @@
   width: calc(100% + 90px);
   transform: translateX(-45px);
 
+  img {
+    max-height: 420px;
+    object-fit: cover;
+    object-position: center;
+  }
+
   @include below(900px) {
     width: calc(100% + 48px);
     transform: translateX(-24px);

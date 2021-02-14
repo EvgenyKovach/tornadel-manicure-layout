@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7d3b58-0b82-446e-944b-033af0db9b55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/components/_advantages.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/components/_creditBlock.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/components/_infoBlocks.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/components/_preview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_preview.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/configs/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/configs/_default.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -79,7 +72,7 @@
       <workItem from="1611928706811" duration="31000" />
       <workItem from="1612714635539" duration="3257000" />
       <workItem from="1612719444447" duration="5503000" />
-      <workItem from="1613292132720" duration="23237000" />
+      <workItem from="1613292132720" duration="27065000" />
     </task>
     <task id="LOCAL-00001" summary="init work">
       <created>1612723729426</created>
@@ -88,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612723729426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="full desktop">
+      <created>1613323894246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613323894246</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init work" />
-    <option name="LAST_COMMIT_MESSAGE" value="init work" />
+    <MESSAGE value="full desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="full desktop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="847" y="353" key="#File_Watchers" timestamp="1612715028692">
@@ -127,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613318087097" />
-    <state x="565" y="1" key="CommitChangelistDialog2" timestamp="1612723728667">
+    <state x="565" y="1" key="CommitChangelistDialog2" timestamp="1613323893418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="565" y="1" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612723728667" />
+    <state x="565" y="1" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613323893418" />
     <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1613295273759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -145,14 +146,14 @@
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928654970" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613295274534" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1612723733565">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613323895722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612723733565" />
-    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1613323800345">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613323895722" />
+    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1613324526785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613323800345" />
+    <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613324526785" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1613314402705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

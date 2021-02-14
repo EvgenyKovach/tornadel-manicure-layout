@@ -6,6 +6,7 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="assets/styles/app.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <title>Пакет «Здоровье мастера»</title>
 </head>
 <body>
@@ -43,10 +44,10 @@
   <div class="preview">
     <div class="preview__container  container">
 
-      <h1 class="preview__title header-title">
+      <h1 class="preview__title header-title aos" data-aos="zoom-in">
         Пакет «Здоровье мастера»
       </h1>
-      <div class="preview__price text">
+      <div class="preview__price text" data-aos="fade-up">
         Рециркулятор и маникюрная вытяжка от 28 690 ₽
       </div>
       <div class="preview__phone-img img-phone">
@@ -55,7 +56,7 @@
       <button class="preview__btn btn type-1">
         Заказать комплект
       </button>
-      <div class="preview__info text">
+      <div class="preview__info text" data-aos="fade-up">
         <p>Во многих регионах действуют специальные законы, которые обязуют  мастеров приобретать рециркуляторы для обеззараживания помещения.
         </p>
         <p>Мы предлагаем комплексное решение — вытяжку и рециркулятор, которые обезопасят от вредных паров кератина или пыли, а также помогут продезинфицировать помещение от вирусов.
@@ -71,7 +72,7 @@
   <div class="advantages">
     <div class="advantages__container container">
 
-      <h2 class="advantages__title header-title">
+      <h2 class="advantages__title header-title animate__animated animate__bounce" data-aos="fade-right"  >
         Преимущества вытяжки Tornadelle
       </h2>
       <div class="advantages__phone-img img-phone">
@@ -245,8 +246,10 @@
 
 <footer>
 </footer>
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="assets/js/main.js"></script>
-
+<script>
+    AOS.init();
+</script>
 </body>
 </html>
