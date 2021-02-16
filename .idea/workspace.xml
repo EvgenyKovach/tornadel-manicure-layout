@@ -3,13 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7d3b58-0b82-446e-944b-033af0db9b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/components/_preview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_preview.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nkHpCjdch1LS97JPYJ9itCzXjm" />
@@ -39,7 +59,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/styles" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -94,6 +114,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init work" />
     <MESSAGE value="full desktop" />
@@ -120,6 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="726" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613313221840" />
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1613399608414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399608414" />
     <state x="798" y="349" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613304818605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -132,19 +167,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="1" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613323893418" />
-    <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1613295273759">
+    <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1613399609223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928650891" />
+    <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399609223" />
     <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613295273759" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1612714849086">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1613399492089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399492089" />
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612714849086" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1613295274534">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1613399609627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928654970" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399609627" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613295274534" />
     <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613323895722">
       <screen x="0" y="0" width="1920" height="1040" />
