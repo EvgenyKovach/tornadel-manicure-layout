@@ -25,6 +25,25 @@
     <list default="true" id="3c7d3b58-0b82-446e-944b-033af0db9b55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/0_/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/0_/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/0_/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/0_/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/0_/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/0_/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/0_/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/0_/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/phone/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/_advantages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_advantages.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/_preview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/_preview.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/configs/_elements.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +78,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/styles" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node-sass" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -93,6 +112,10 @@
       <workItem from="1612714635539" duration="3257000" />
       <workItem from="1612719444447" duration="5503000" />
       <workItem from="1613292132720" duration="27065000" />
+      <workItem from="1613481747863" duration="1540000" />
+      <workItem from="1613738808208" duration="462000" />
+      <workItem from="1613739592504" duration="35000" />
+      <workItem from="1613739685552" duration="3016000" />
     </task>
     <task id="LOCAL-00001" summary="init work">
       <created>1612723729426</created>
@@ -108,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613323894246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="images">
+      <created>1613481777904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613481777904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="images">
+      <created>1613481783360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613481783360</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,11 +161,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init work" />
     <MESSAGE value="full desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="full desktop" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="847" y="353" key="#File_Watchers" timestamp="1612715028692">
@@ -151,10 +190,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="726" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613313221840" />
-    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1613399608414">
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1613739015374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399608414" />
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613739015374" />
     <state x="798" y="349" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613304818605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,37 +207,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="565" y="1" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613323893418" />
-    <state x="627" y="298" key="EditFileWatcherDialog" timestamp="1613399609223">
+    <state x="627" y="298" width="665" height="472" key="EditFileWatcherDialog" timestamp="1613739065621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399609223" />
     <state x="627" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613295273759" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1613399492089">
+    <state x="627" y="298" width="665" height="472" key="EditFileWatcherDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613739065621" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1613739007318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399492089" />
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612714849086" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1613399609627">
+    <state x="739" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613739007318" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1613739067121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613399609627" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613295274534" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613323895722">
+    <state x="461" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613739067121" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613481794574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613323895722" />
-    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1613324526785">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613481794574" />
+    <state x="668" y="237" width="583" height="566" key="find.popup" timestamp="1613742725197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="237" width="583" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613324526785" />
+    <state x="668" y="237" width="583" height="566" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613742725197" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1613314402705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611928512937" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613314402705" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613323725300">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613742722906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613323725300" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613742722906" />
   </component>
 </project>

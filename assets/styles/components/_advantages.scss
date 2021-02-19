@@ -12,7 +12,35 @@
   }
 
   &__info {
+    max-width: 580px;
+    margin: 0 auto;
+
     text-align: center;
+    line-height: 28px;
+
+    padding-bottom: 56px;
+  }
+
+  &__phone-ing-second {
+    position: relative;
+  }
+
+  &__phone-text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 40px 80px;
+    border: 1px solid $currentColor;
+
+    p {
+      padding: 5px 0;
+    }
+
+    img {
+      min-height: 520px;
+    }
   }
 
 }

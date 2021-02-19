@@ -1,10 +1,10 @@
 header {
-  background:  $phoneColor;
 
   @include below(900px) {
     background: #fff;
   }
 }
+
 
 .header {
   display: flex;
@@ -15,10 +15,10 @@ header {
     display: flex;
 
     max-width: 165px;
-    max-height: 40px;
+    max-height: 42px;
 
     @include below(900px) {
-      max-width: 125px;
+      max-width: 126px;
     }
   }
 
